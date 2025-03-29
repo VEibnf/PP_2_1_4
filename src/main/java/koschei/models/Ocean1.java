@@ -14,3 +14,4 @@ public class Ocean1 {
         return "на океане остров " + island.toString();
     }
 }
+
